@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Baños Neo Pet</string>
+
+
+    <!--Proceso de Logeo y Registro-->
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_register">register</string>
+    <string name="button_login">Iniciar Sesion</string>
+    <string name="button_register">Registrarse</string>
+    <string name="tv_login_user">Usuario</string>
+    <string name="tv_login_password">Contraseña</string>
+    <string name="tv_register_user">Usuario Nuevo</string>
+
+
+
+
+
+
+</resources>
